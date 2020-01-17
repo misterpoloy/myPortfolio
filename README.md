@@ -4,7 +4,7 @@
   <strong>Software Engineer</strong>
 </div>
 <div align="center">
-  <code>janpoloy@gmail.com</code> 📍Mexico City 🇲🇽
+  <code>janpoloy@gmail.com</code>  🗣️English - Español 📍Mexico 🇲🇽
 </div>
 <br />
 
@@ -18,7 +18,7 @@
 
 <div align="center">
   <h3>
-    <a href="#">
+    <a href="https://twitter.com/janpoloy">
       Twitter
     </a>
     <span> | </span>
@@ -26,11 +26,11 @@
       Youtube
     </a>
     <span> | </span>
-    <a href="#">
+    <a href="https://medium.com/@janpoloy">
       Medium
     </a>
     <span> | </span>
-    <a href="#">
+    <a href="https://stackoverflow.com/users/4991706/juan-p-ortiz">
       Stack Overflow
     </a>
   </h3>
@@ -50,6 +50,9 @@
 [![Generic badge](https://img.shields.io/badge/Javascript-advanced-green.svg)](https://shields.io/)
 
 [![Generic badge](https://img.shields.io/badge/Python-learning-yellow.svg)](https://shields.io/)
+
+## Tags
+`ES6`, `React`, `SQL`, `Redux`, `Mobx`, `GraphQL`, `MongoDB`, `Express JS`, `Node JS`, `Solidity`, `Smart Contracts`, `Blockchain`, `OpenGL`, `Bash`, `Unit testing`, `TCP/IP Protocols`, `HTML/CSS`
 
 ## Table of Contents
 - [Data estructures](#features)
@@ -72,32 +75,5 @@
 var html = require('choo/html')
 var devtools = require('choo-devtools')
 var choo = require('choo')
-
-var app = choo()
-app.use(devtools())
-app.use(countStore)
-app.route('/', mainView)
-app.mount('body')
-
-function mainView (state, emit) {
-  return html`
-    <body>
-      <h1>count is ${state.count}</h1>
-      <button onclick=${onclick}>Increment</button>
-    </body>
-  `
-
-  function onclick () {
-    emit('increment', 1)
-  }
-}
-
-function countStore (state, emitter) {
-  state.count = 0
-  emitter.on('increment', function (count) {
-    state.count += count
-    emitter.emit('render')
-  })
-}
 ```
 Want to see more examples? Check out the 
