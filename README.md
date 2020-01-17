@@ -4,7 +4,7 @@
   <strong>Software Engineer</strong>
 </div>
 <div align="center">
-  <code>janpoloy@gmail.com</code>  🗣️English - Español 📍Mexico 🇲🇽
+  <code>janpoloy@gmail.com</code>  🗣️ English - Spanish 📍Mexico, cdmx 🇲🇽
 </div>
 <br />
 
@@ -51,29 +51,26 @@
 
 [![Generic badge](https://img.shields.io/badge/Python-learning-yellow.svg)](https://shields.io/)
 
-## Tags
-`ES6`, `React`, `SQL`, `Redux`, `Mobx`, `GraphQL`, `MongoDB`, `Express JS`, `Node JS`, `Solidity`, `Smart Contracts`, `Blockchain`, `OpenGL`, `Bash`, `Unit testing`, `TCP/IP Protocols`, `HTML/CSS`
+## Work experience
+[See complete list on Linkedin](https://www.linkedin.com/in/juan-pablo-ortiz/)
 
 ## Table of Contents
-- [Data estructures](#features)
 - [Algorithms](#example)
 - [Mobile](#philosophy)
 - [Frontend](#events)
 - [Backend](#state)
-- [Original articles](#state)
+- [Data estructures](#features)
+- [Talks and conferences](#state)
+- [Written articles](#state)
 
 ## Data estrucures
-- __minimal size:__ weighing `4kb`, Choo is a tiny little framework
-- __event based:__ our performant event system makes writing apps easy
-- __small api:__ with only 6 methods there's not much to learn
-- __minimal tooling:__ built for the cutting edge `browserify` compiler
-- __isomorphic:__ renders seamlessly in both Node and browsers
-- __very cute:__ choo choo!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Example
 ```js
 var html = require('choo/html')
 var devtools = require('choo-devtools')
 var choo = require('choo')
+
 ```
-Want to see more examples? Check out the 
+Want to see more examples?
