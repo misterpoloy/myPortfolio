@@ -55,13 +55,13 @@
 [See complete list on Linkedin](https://www.linkedin.com/in/juan-pablo-ortiz/)
 
 ## Table of Contents
-- [Algorithms](#example)
-- [Mobile](#philosophy)
-- [Frontend](#events)
-- [Backend](#state)
-- [Data estructures](#features)
-- [Talks and conferences](#state)
-- [Written articles](#state)
+- [Algorithms](#example) TODO: (Clement)
+- [Mobile](#philosophy) (Sofia, AVI)
+- [Frontend](#events) (World Cup, Github Auth)
+- [Backend](#state) TODO
+- [Data estructures](#features) TODO: (youtube)
+- [Talks and conferences](#state) TODO
+- [Written articles](#state) (Medium)
 
 ## Data estrucures
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
