@@ -9,14 +9,6 @@
 <br />
 
 <div align="center">
-
-  <!-- Github -->
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/misterpoloy?logo=github&style=for-the-badge">
-  <!-- Twitter -->
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/janpoloy?label=%40janpoloy&logo=twitter&style=for-the-badge">
-</div>
-
-<div align="center">
   <h3>
     <a href="https://twitter.com/janpoloy">
       Twitter
