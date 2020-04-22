@@ -4,7 +4,7 @@
   <strong>Software Engineer</strong>
 </div>
 <div align="center">
-  <code>janpoloy@gmail.com</code>  🗣️ English - Spanish 📍Mexico, cdmx 🇲🇽
+  <code>janpoloy@gmail.com</code>  🗣️ English - Spanish 📍Mexico, CDMX 🇲🇽
 </div>
 
 <div align="center">
