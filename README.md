@@ -46,7 +46,7 @@
 [See complete list on Linkedin](https://www.linkedin.com/in/juan-pablo-ortiz/)
 
 ## Table of Contents
-- [Algorithms](#Algorithms)
+- [Algorithms](#algorithms)
 - [Mobile](#mobile)
 - [Frontend](#frontend)
 - [Backend](#backend)
@@ -55,5 +55,5 @@
 - [Written articles](#written)
 
 ## Algorithms
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat.
-[“Gift Wrapping algorithm” (aka Jarvis march)](https://editor.p5js.org/misterpoloy/full/TJDZJNx9N)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+* [“Gift Wrapping algorithm” (aka Jarvis march)](https://editor.p5js.org/misterpoloy/full/TJDZJNx9N)
